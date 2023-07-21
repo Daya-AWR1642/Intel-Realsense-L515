@@ -6,7 +6,7 @@
            
 	   You will navigate to this Intel Official Github Repository
 
-	   ![Step 1](https://drive.google.com/file/d/1Q3W8dhVoZ-Vv17np-n-5NzCajJTLfiL9/view?usp=sharing)
+	   ![Step 1](https://drive.google.com/file/d/1tY8RWCrgVpaTU3PlIv1uY1wrGrh86Jd5/view?usp=sharing)
 
            Just scrolldown 
 
